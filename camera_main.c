@@ -88,4 +88,8 @@ int main(void)
 	return 0;
 }
 
-/////niANDhao
+<<<<<<< HEAD
+////nihao
+=======
+////nihao
+>>>>>>> featurel
